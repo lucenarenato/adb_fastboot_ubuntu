@@ -1,0 +1,41 @@
+https://forum.xda-developers.com/g4/development/rom-aospextended-rom-v4-6-t3753300
+
+https://downloads.aospextended.com/c90/
+
+https://drive.google.com/drive/folders/1OZe1ymcgBXZLnciQRNUSMPi5CMTI_Wkw
+
+https://github.com/LG-G4c
+
+https://www.youtube.com/watch?v=Wu7-iZUyT-E
+
+http://www.phonandroid.com/forum/aosp-extended-4-6-t186002.html
+
+https://www.youtube.com/watch?v=QAIPC7JO1Ko
+
+Conecte seu celular ao seu computador.
+
+Copie / cole o arquivo .zip rom e as lacunas no seu telefone
+
+Desligue seu celular.
+
+Reinicie seu celular em Recuperação .
+
+Faça um backup do seu sistema atual escolhendo Backup
+
+Executar uma redefinição de fábrica / limpe o cache / limpe Dalvik
+
+Clique - >> Instalar -> procurar o zip desejado -> selecione o -> e arraste da esquerda para a direita para instalá-lo: Passe para confirmar o flash (não é necessário reescrever os wipes entre o arquivo zip de rom e gapps)
+
+Em seguida, vá para o menu "Reinicializar" da recuperação e selecione "Reiniciar sistema"
+
+Espere, seu celular irá reiniciar com a nova rom.
+
+
+
+
+/////////////////////////////////
+lg prolite
+https://forum.xda-developers.com/lg-g-pro-2/development/rom-aospextended-rom-v4-6-t3678782
+
+https://www.youtube.com/watch?v=xsb_aXaYa8w
+
